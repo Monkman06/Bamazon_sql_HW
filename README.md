@@ -5,3 +5,6 @@
 ![alt text](Bamazon-working-screenshot.png "Bamazon working in terminal")
 
 ![alt text](bamazon-items-csv-screenshot.png "item list on csv file")
+
+
+![alt text](sale-complete.png "shows finalized transaction")
